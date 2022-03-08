@@ -1,21 +1,4 @@
-### Hi there 👋
-
-<!--
-**KartikGarg0/KartikGarg0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-**Hi there, I'm a **Data Geek****
+### Hi there 👋 I'm a **Data Geek**
 
 Now I am studying Data Science at at **[UChicago](https://www.uchicago.edu/)**.
 **I love programming, Data Science, Machine Learning and AI**
@@ -32,6 +15,8 @@ I am looking forward to applying my knowledge and experience in building intelli
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 - 🎯 Ask me about: Python, Machine Learning, RESTful APIs, Database, Architecture, Testing, Security, Algorithm and data Structure.
-- ⚡ How to reach me: catch, and follow me from the above links 👆, in addition to follow me here.
+- ⚡ How to reach me: **[LinkedIn](https://www.linkedin.com/in/kartik-garg/)**.
+- 😄 Pronouns: He/him/his
+- ⚡ Fun fact: I love to cook and feed Indian food .
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KartikGarg0&theme=dracula)
