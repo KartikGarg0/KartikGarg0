@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Hi there, I'm a **Data Geek** **
-Now I am studying Data Science at at **[EELU](https://www.uchicago.edu/)**.
+**Hi there, I'm a **Data Geek****
+
+Now I am studying Data Science at at **[UChicago](https://www.uchicago.edu/)**.
 **I love programming, Data Science, Machine Learning and AI**
 I love sharing my knowledge and experience, contribute to open source projects related to Data Science, and sharing PoCs & problems as code on this repository.
 I'm  Data Scientist
