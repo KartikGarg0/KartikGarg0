@@ -6,7 +6,7 @@ Now I am studying Data Science at at **[UChicago](https://www.uchicago.edu/)**.
 
 I love sharing my knowledge and experience, contribute to open source projects related to Data Science, and sharing PoCs & problems as code on this repository.
 
-I'm  Data Scientist. Usual work duties are designing data analysis, understanding the data, cleaning and building AI/ML models to make the computers understand, predict, judge and make them smart.
+My usual work duties are data analysis, data cleaning, building AI/ML models and backend engineering to make the computers understand, predict, judge and make them smart.
 
 I am looking forward to applying my knowledge and experience in building intelligent solutions to impact people’s lives and industries.
 
