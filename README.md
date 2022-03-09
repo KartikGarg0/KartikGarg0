@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm a **Data Geek**
 
-Now I am studying Data Science at at **[UChicago](https://www.uchicago.edu/)**.
+Now I am studying Data Science at at **[University of Chicago](https://www.uchicago.edu/)**.
 
 **I love programming, Data Science, Machine Learning and AI**
 
