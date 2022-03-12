@@ -21,4 +21,5 @@ I am looking forward to applying my knowledge and experience in building intelli
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I'm a foodie. Also, I love to cook Indian food.
 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KartikGarg0&theme=dracula)
