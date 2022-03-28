@@ -16,7 +16,7 @@ I am looking forward to applying my knowledge and experience in building intelli
 - 💼 I have a Bachelor's degree in Applied Mathematics;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions;
-- 🎯 Ask me about: Python, Machine Learning, RESTful APIs, Database, Architecture, Testing, Security, Algorithm and data Structure.
+- 🎯 Ask me about: Python, Machine Learning, RESTful APIs, Database, Architecture, Testing, Security, Algorithm and data Structure;
 - ⚡ How to reach me: **[LinkedIn](https://www.linkedin.com/in/kartik-garg/)** or kgarg@uchicago.edu.
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I'm a foodie. Also, I love to cook Indian food
