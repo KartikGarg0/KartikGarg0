@@ -19,7 +19,7 @@ I am looking forward to applying my knowledge and experience in building intelli
 - 🎯 Ask me about: Python, Machine Learning, RESTful APIs, Database, Architecture, Testing, Security, Algorithm and data Structure;
 - ⚡ How to reach me: **[LinkedIn](https://www.linkedin.com/in/kartik-garg/)** or kgarg@uchicago.edu;
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: I'm a foodie. Also, I love to cook Indian food
+- ⚡ Fun fact: I'm a foodie. Also, I love to cook Indian food.
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KartikGarg0&theme=dracula)
