@@ -11,7 +11,7 @@ My usual work duties are data analysis, data cleaning, building AI/ML models and
 I am looking forward to applying my knowledge and experience in building intelligent solutions to impact people’s lives and industries.
 
 ### Talking about Personal Stuffs:
-- 👨🏽‍💻 I’m currently a Data Science Graduate student at University of Chicago; 
+- 👨🏽‍💻 A Data Science Graduate student at University of Chicago; 
 - 🤔 My interests are with Data Science and Python programming;
 - 💼 I have a Bachelor's degree in Applied Mathematics;
 - 💬 Ask me about anything, I am happy to help;
